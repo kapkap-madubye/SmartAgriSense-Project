@@ -2,7 +2,7 @@
 1. Introduction:
 
 I’d like to start by addressing a challenge that affects us all—climate change. Farmers are on the front lines, facing its direct consequences every day. Rising temperatures, unpredictable rainfall patterns, and extreme weather events disrupt traditional farming practices, making it harder than ever to grow crops efficiently. These changes not only threaten food security but also escalate costs for farmers while increasing pressure on natural resources like water and soil.
-This is where technology can play a vital role. At SmartAgri, we’ve developed an innovative IoT solution designed to empower farmers with real-time soil data, helping them adapt to these challenges and thrive in a changing climate.
+This is where technology can play a vital role. At SmartAgri, i’ve developed an innovative IoT solution designed to empower farmers with real-time soil data, helping them adapt to these challenges and thrive in a changing climate.
 
 2. Problem Statement:
 
