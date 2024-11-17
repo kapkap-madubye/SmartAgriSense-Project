@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "userInterfaceStyle": "automatic",
+    "scheme": "com.bugsquashers.Planteria",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Planteria",
+    "slug": "Planteria",
+    
+    "android": {
+      "package": "com.BugSquashers.Planteria",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "splash": {
+      "image": "./assets/splash.png"
+    },
+    
+    "plugins": [
+      "@react-native-google-signin/google-signin",
+      "expo-image-picker",
+      {
+        "photosPermission": "Allow $(PRODUCT_NAME) to access your photo",
+        "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera"
+      }
+    ]
+  }
+}
